@@ -1,8 +1,14 @@
 Part 1: Write your message here from GitHub
 
+Hello, Shrey!
+
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+
+This commands downloads commits, files and refs from a remote to a local repository.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 
+Git is an open source developer tool for people to manage their source code
+Github is an online service where different developers have access to other peoples code for projects and other types of things.
